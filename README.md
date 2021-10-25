@@ -1,2 +1,3 @@
 # LeetCode-6
-ZigZag Conversion
+## ZigZag Conversion
+https://leetcode.com/problems/zigzag-conversion/
